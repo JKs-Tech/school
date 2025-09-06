@@ -1,5 +1,5 @@
 # Minimal .gitignore - only essential build artifacts
-# Keeping secret files and configs as requested
+# Keeping secret files and configs as requested by user
 
 # Flutter/Dart/Pub related - only essential build files
 **/doc/api/
@@ -21,3 +21,6 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+
+# Note: Secret files like google-services.json, key.properties, etc. are intentionally NOT ignored
+# as per user request to not hide any secret files
