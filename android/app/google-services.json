@@ -1,0 +1,880 @@
+{
+  "project_info": {
+    "project_number": "535784720888",
+    "project_id": "eduacademy-app2",
+    "storage_bucket": "eduacademy-app2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:54a523ea34edbc0f3b2e0d",
+        "android_client_info": {
+          "package_name": "com.aitech.collegeerp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:dece81159e7687163b2e0d",
+        "android_client_info": {
+          "package_name": "com.aitech.schoolerp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:e3f42ddd5e7c90b63b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.Panchatantraschyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:70e76da43bdb33cb3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.adarshmodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:68031e87172627fc3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.adarshmodelhyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:a382a2db9fcaaecd3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.alphasc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:8ffddd8208aff83c3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.ambrosiaarkahyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:3a1078e52412a2743b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.arkaambrosia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:b10ed81c218e760f3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.baptistcentenaryhyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:f110c002d69e93153b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.brilliantschyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:b861d1cd1453c9853b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.centenartbaptist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:552a18979f45584a3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.gbninstpharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:df7b8d38fa8835873b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.gbnpharmacyhyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:2c003c73d0ec72f93b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.grammergeniushyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:353a654ac6c441ab3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.grammerglobalhyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:89a0d10b0a842d5c3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.highlandmotherhyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:ba73f0502219b4913b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.medhavijuniorcg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:2b3b7c044e5e482b3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.motherlandsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:c000ef0a1c11bb853b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.nagarjunahyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:e9e96b31086be68f3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.nagarjunavidhyasc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:4e63d593558652663b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.redsonjuniorhyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:c4b157fabd23a2843b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.richmindschyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:3d4b3c621f0cd9ba3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.ruthmemorialsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:3c636fab443073743b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.shaashtraglbhyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:73357db67b85578a3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.shaashtrahyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:47b58782902f49aa3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.shaastraglobalsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:fea40ffc655267423b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.srimedhavihyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:40dde2c851e8554d3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.stpaulconvent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:370d20d2ee13b8aa3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.stpaulhyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535784720888:android:55420b9c1b111e2a3b2e0d",
+        "android_client_info": {
+          "package_name": "com.eduacademy.thesmarthyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloTW72_3iZXcJOb0FSvP0pEnrUe0_IP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535784720888-s8ignu9o9nsurur01t82gkvsahvs8adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
